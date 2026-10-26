@@ -21,3 +21,4 @@ Never put the password in any file.
 
 ## Run locally
 npm install && npm run dev   (the admin save needs the deployed API; locally it shows the starter projects)
+"# port" 
